@@ -1,0 +1,298 @@
+#text {
+    font-size: 13px;
+    display: inline-block;
+    font-weight: bold;
+    color: grey;
+}
+
+#text1 {
+    font-size: 10px;
+    display: inline-block;
+    margin-left: 3px;
+    padding: 2px;
+}
+
+#text2 {
+    font-size: 1em;
+    line-height: 20px;
+    padding-left: 5px;
+    display: inline-block;
+    margin-top: 2px;
+}
+
+.fo1 {
+    line-height: 15px;
+    margin-left: 5px;
+    padding: 10px;
+    padding-bottom: 15px;
+}
+
+.data {
+    line-height: 16px;
+    padding-left: 5px;
+}
+
+body {
+    background-image: url("../images/bg.png");
+}
+
+label:hover {
+    color: #ea6513;
+}
+
+button {
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #d8d4d3;
+    margin-left: 55px;
+    padding-right: 30px;
+    border: none;
+}
+
+button:hover {
+    color: #ea6513;
+    background-image: url("../images/mask.jpg");
+}
+
+#newsitem:hover {
+    background-image: url("../images/mask.jpg");
+}
+
+#name:hover {
+    border-color: #ea6513;
+    background-image: url("../images/mask.jpg");
+}
+
+#Email:hover {
+    border-color: #ea6513;
+    background-image: url("../images/mask.jpg");
+}
+
+.form-group {
+    padding-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li a:hover {
+    background-color: lightgrey;
+    color: #ea6513;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+ul li a {
+    color: grey;
+    font-weight: bold;
+}
+
+h6 {
+    color: black;
+}
+
+.data:hover {
+    background-image: url("../images/mask.jpg");
+    width: 110%;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url('../fonts/MarketingScript.ttf') format('truetype');
+}
+
+.data1:hover {
+    opacity: .6;
+}
+
+@font-face {
+    font-family: "font1";
+    src: url('../fonts/HIGHERUP.TTF')format('truetype');
+}
+
+.on {
+    font-family: "myfont";
+    font-size: 23px;
+    color: grey;
+    padding-left: 5px;
+    opacity: 0.7;
+}
+
+.img-thumbnail:hover {
+    -webkit-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+    border: 8px solid white;
+}
+
+.img-thumbnail {
+    border: 5px solid white;
+}
+
+.font2 {
+    font-family: "myfont";
+    padding-left: 10px;
+}
+
+.font {
+    font-family: "font1";
+    font-size: 2.3em;
+    line-height: 40px;
+}
+
+hr {
+    margin-bottom: 10px;
+}
+
+.font3 {
+    font-family: "font1";
+    color: grey;
+}
+
+.fonts {
+    font-size: 20px;
+    margin-left: 30px;
+    padding-left: 20px;
+    margin-top: 20px;
+    line-height: 10px;
+    display: inline-block;
+    padding-top: 10px;
+    font-weight: bold;
+    color: grey;
+}
+
+.num3 {
+    font-size: 45px;
+    color: #ea6511;
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 1px;
+    font-family: "font1";
+}
+
+.num2 {
+    font-size: 45px;
+    color: #ea6513;
+    font-weight: bold;
+    line-height: 1px;
+    font-family: "font1";
+}
+
+#rotation:hover {
+    opacity: 0.6;
+}
+
+.num1 {
+    font-size: 45px;
+    color: #ea6513;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 1px;
+    font-width: 50%;
+    font-family: "font1";
+}
+
+#margin {
+    width: 100%;
+    height: 100%;
+}
+
+#divider1 {
+    width: 420px;
+    padding-right: 20px;
+    line-height: 1px;
+    padding-top: 20px;
+}
+
+#divider2 {
+    width: 400px;
+    padding-right: 8px;
+    padding-top: 20px;
+}
+
+#divider3 {
+    width: 430px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+#border {
+    border: 5px solid lightgrey;
+}
+
+#history {
+    font-size: 15px;
+    padding: 5px;
+}
+
+footer {
+    border: 5px solid lightgrey;
+    opacity: .5;
+    background-image: url("../images/mask.jpg");
+}
+
+.navbar-nav {
+    font-size: 15px;
+    padding-top: 10px;
+    margin-left: 2px;
+    color: grey;
+}
+
+label {
+    color: #ea6513;
+    font-weight: bold;
+}
+
+#b1 {
+    font-size: 20px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #d8d4d3;
+    margin-left: 55px;
+    padding-right: 30px;
+    border: none;
+}
+
+#b2 {
+    font-size: 20px;
+    float: right !important;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #d8d4d3;
+    margin-left: 55px;
+    padding-right: 30px;
+    border: none;
+    margin-right: 10%;
+}
+
+#second {
+    margin-top: 3%;
+}
+
+#SUBSCRIBE {
+    float: right;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    padding-right: 2px;
+    margin-right: 10px;
+    background-color: lightgrey;
+    color: grey;
+}
+
+#SUBSCRIBE:hover {
+    color: #ea6513;
+    background-color: #d8d4d3;
+}
+
+article {
+    padding-left: 10px;
+}
